@@ -129,15 +129,3 @@ Contributions are welcome! To contribute:
 3. Commit your changes and push.
 4. Open a pull request describing your changes.
 
-Please follow standard best practices (clear commits, tests for new functionality, update README where appropriate).
-
-## License
-Specify a license for the project (e.g., MIT). Example:
-```
-MIT License
-```
-(Replace with the license you choose and include a LICENSE file.)
-
-## Contact
-Maintainer: kaavya-1610  
-For questions or collaboration, open an issue or PR on the repository.
